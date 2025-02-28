@@ -1,0 +1,6 @@
+.avatar {
+  width: 100px;   /* Définit la largeur de l'image */
+  height: 100px;  /* Définit la hauteur de l'image */
+  border-radius: 50%; /* Rend l'image ronde */
+  object-fit: cover; /* Assure que l'image est bien cadrée et ne se déforme pas */
+}
